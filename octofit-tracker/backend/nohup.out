@@ -1,0 +1,30 @@
+Watching for file changes with StatReloader
+[16/Nov/2025 13:04:15] "GET / HTTP/1.1" 200 5742
+Not Found: /api/
+[16/Nov/2025 13:04:21] "GET /api/ HTTP/1.1" 404 6680
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2025 - 13:04:09
+Django version 4.1.7, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[16/Nov/2025 13:04:47] "GET /api/ HTTP/1.1" 200 244
+Not Found: /
+[16/Nov/2025 13:05:10] "GET / HTTP/1.1" 404 2293
+Not Found: /
+[16/Nov/2025 13:05:13] "GET / HTTP/1.1" 404 2293
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2025 - 13:04:40
+Django version 4.1.7, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[16/Nov/2025 13:06:42] "GET /api/users/ HTTP/1.1" 200 2
+Not Found: /
+[16/Nov/2025 13:06:59] "GET / HTTP/1.1" 404 2293
